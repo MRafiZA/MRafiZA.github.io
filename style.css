@@ -1,0 +1,32 @@
+.navbar{
+    border-radius: 0px 0px 25px 25px
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: rgb(235, 211, 151) ;
+}
+
+#Experience{
+    background-color: rgb(235, 211, 151) ;
+}
+
+.card{
+    border-radius: 30px 30px 30px 30px
+}
+
+.card-img-top{
+    border-radius: 30px 30px 
+}
+
+.card-text{
+    text-align: center;
+}
+
+section{
+    padding-top: 6rem ;
+}
+
+.footer{
+    background-color:rgb(174, 150, 89);
+}
